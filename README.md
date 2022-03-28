@@ -40,7 +40,8 @@ Programmer | Learner
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Express.js](https://expressjs.com/images/express-facebook-share.png)&nbsp;
+![Next.js](https://miro.medium.com/max/1400/1*iXsCHAHPN7xFAWuuWjE6-Q.png)&nbsp;
 <br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak03.visitor-badge&left_color=blue&right_color=yellow)
