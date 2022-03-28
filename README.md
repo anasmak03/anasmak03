@@ -58,9 +58,6 @@ Programmer | Learner
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasmak03&show_icons=true&locale=en" alt="anasmak03" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anasmak03&show_icons=true&locale=en" alt="anasmak03" /></p>
-
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
 [twitter]: https://twitter.com/mahbubdev
