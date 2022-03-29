@@ -40,8 +40,10 @@ Programmer | Learner
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express.js](https://expressjs.com/images/express-facebook-share.png)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+  ![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
 <br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak03.visitor-badge&left_color=blue&right_color=yellow)
