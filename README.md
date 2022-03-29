@@ -19,13 +19,11 @@ Programmer | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anasmak03 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anasmak03 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="anas elmakhloufi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="anasmak03 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,9 +40,9 @@ Programmer | Learner
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
   ![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
 <br />
+
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anasmak03.visitor-badge&left_color=blue&right_color=yellow)
 <br />
